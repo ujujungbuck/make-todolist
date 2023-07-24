@@ -29,7 +29,7 @@ React
 | 오하은<br>(Team leader)                                         | 고창균                                                                                        | 한가람                                            |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------- |
 | [@heoh06](https://github.com/heoh06)                            | [@erirumble](https://github.com/erirumble)                                                    | [@ujujungbuck](https://github.com/ujujungbuck)    |
-| 로그인 페이지 / 회원가입 페이지 / 버튼 컴포넌트 / 인풋 컴포넌트 | 메인 페이지 / 채용페이지 / 채용상세페이지 / 채용카드 컴포넌트 / 배너 컴포넌트 / 검색 컴포넌트 | 마이 페이지 / 타유저 프로필페이지 / 개발진 페이지 |
+| * 로그인 페이지 * 회원가입 페이지 / 버튼 컴포넌트 / 인풋 컴포넌트 | 메인 페이지 / 채용페이지 / 채용상세페이지 / 채용카드 컴포넌트 / 배너 컴포넌트 / 검색 컴포넌트 | 마이 페이지 / 타유저 프로필페이지 / 개발진 페이지 |
 
 ### Backend
 
@@ -62,10 +62,11 @@ React
 
 **Team Page**: [Notion URL](https://www.notion.so/codestates/15-9064dda061fa49f7ab12a0e29b0dff96)
 
-**Develop Page**: [Notion URL](https://github.com/orgs/codestates-seb/projects/829)
+**Develop Page**: [Github URL](https://github.com/orgs/codestates-seb/projects/829)
 
 ### Figma
 
 **Figma Page**: [Figma URL](https://www.figma.com/file/QL482rduMaRCyo0zNmARVh/%ED%94%84%EB%A6%AC%ED%95%B4%EC%9A%94?node-id=133%3A5528&mode=dev)
 
 ### ERD Diagram
+
